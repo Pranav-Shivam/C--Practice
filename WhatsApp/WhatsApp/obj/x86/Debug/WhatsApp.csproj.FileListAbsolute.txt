@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2010\Projects\WhatsApp\WhatsApp\bin\Debug\WhatsApp.exe
+c:\users\user\documents\visual studio 2010\Projects\WhatsApp\WhatsApp\bin\Debug\WhatsApp.pdb
+c:\users\user\documents\visual studio 2010\Projects\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.exe
+c:\users\user\documents\visual studio 2010\Projects\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.pdb
+c:\users\user\documents\visual studio 2010\Projects\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.Form2.resources
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.exe
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.pdb
+E:\CSharp\WhatsApp\WhatsApp\bin\Debug\WhatsApp.exe
+E:\CSharp\WhatsApp\WhatsApp\bin\Debug\WhatsApp.pdb
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.Form1.resources
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.Form2.resources
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.Properties.Resources.resources
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.csproj.GenerateResource.Cache
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.csprojResolveAssemblyReference.cache
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.csproj.AssemblyReference.cache
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\WhatsApp\WhatsApp\obj\x86\Debug\WhatsApp.csproj.CoreCompileInputs.cache

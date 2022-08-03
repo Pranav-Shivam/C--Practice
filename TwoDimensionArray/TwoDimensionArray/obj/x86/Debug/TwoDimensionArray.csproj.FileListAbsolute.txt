@@ -1,0 +1,4 @@
+E:\CSharp\TwoDimensionArray\TwoDimensionArray\bin\Debug\TwoDimensionArray.exe
+E:\CSharp\TwoDimensionArray\TwoDimensionArray\bin\Debug\TwoDimensionArray.pdb
+E:\CSharp\TwoDimensionArray\TwoDimensionArray\obj\x86\Debug\TwoDimensionArray.exe
+E:\CSharp\TwoDimensionArray\TwoDimensionArray\obj\x86\Debug\TwoDimensionArray.pdb

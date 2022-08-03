@@ -1,0 +1,14 @@
+E:\CSharp\Chai_Dukan\Chai_Dukan\bin\Debug\Chai_Dukan.exe
+E:\CSharp\Chai_Dukan\Chai_Dukan\bin\Debug\Chai_Dukan.pdb
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.Login.resources
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.NewRegistration.resources
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.Properties.Resources.resources
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.csproj.GenerateResource.Cache
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.exe
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.pdb
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.csprojResolveAssemblyReference.cache
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.Chai.resources
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.Ciggrete.resources
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.Coffee.resources
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.Cold.resources
+E:\CSharp\Chai_Dukan\Chai_Dukan\obj\x86\Debug\Chai_Dukan.Purchase.resources

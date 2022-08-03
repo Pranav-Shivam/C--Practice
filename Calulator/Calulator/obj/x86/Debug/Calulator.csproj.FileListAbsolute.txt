@@ -1,0 +1,7 @@
+E:\Gopesh\Calulator\Calulator\bin\Debug\Calulator.exe
+E:\Gopesh\Calulator\Calulator\bin\Debug\Calulator.pdb
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.Form1.resources
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.Properties.Resources.resources
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.csproj.GenerateResource.Cache
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.exe
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.pdb

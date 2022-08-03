@@ -1,0 +1,5 @@
+E:\CSharp\String_Functions\String_Functions\bin\Debug\String_Functions.exe
+E:\CSharp\String_Functions\String_Functions\bin\Debug\String_Functions.pdb
+E:\CSharp\String_Functions\String_Functions\obj\x86\Debug\String_Functions.csprojResolveAssemblyReference.cache
+E:\CSharp\String_Functions\String_Functions\obj\x86\Debug\String_Functions.exe
+E:\CSharp\String_Functions\String_Functions\obj\x86\Debug\String_Functions.pdb

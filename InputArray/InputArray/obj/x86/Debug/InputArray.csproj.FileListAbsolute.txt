@@ -1,0 +1,4 @@
+E:\CSharp\InputArray\InputArray\bin\Debug\InputArray.exe
+E:\CSharp\InputArray\InputArray\bin\Debug\InputArray.pdb
+E:\CSharp\InputArray\InputArray\obj\x86\Debug\InputArray.exe
+E:\CSharp\InputArray\InputArray\obj\x86\Debug\InputArray.pdb

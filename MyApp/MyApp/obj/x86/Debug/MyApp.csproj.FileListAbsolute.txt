@@ -1,0 +1,8 @@
+E:\CSharp\MyApp\MyApp\bin\Debug\MyApp.exe
+E:\CSharp\MyApp\MyApp\bin\Debug\MyApp.pdb
+E:\CSharp\MyApp\MyApp\obj\x86\Debug\MyApp.Form1.resources
+E:\CSharp\MyApp\MyApp\obj\x86\Debug\MyApp.Properties.Resources.resources
+E:\CSharp\MyApp\MyApp\obj\x86\Debug\MyApp.csproj.GenerateResource.Cache
+E:\CSharp\MyApp\MyApp\obj\x86\Debug\MyApp.exe
+E:\CSharp\MyApp\MyApp\obj\x86\Debug\MyApp.pdb
+E:\CSharp\MyApp\MyApp\obj\x86\Debug\MyApp.Form2.resources

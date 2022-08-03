@@ -1,0 +1,8 @@
+E:\Gopesh\mypg\mypg\bin\Debug\mypg.exe
+E:\Gopesh\mypg\mypg\bin\Debug\mypg.pdb
+E:\Gopesh\mypg\mypg\obj\x86\Debug\mypg.exe
+E:\Gopesh\mypg\mypg\obj\x86\Debug\mypg.pdb
+E:\CSharp\mypg\mypg\obj\x86\Debug\mypg.exe
+E:\CSharp\mypg\mypg\obj\x86\Debug\mypg.pdb
+E:\CSharp\mypg\mypg\bin\Debug\mypg.exe
+E:\CSharp\mypg\mypg\bin\Debug\mypg.pdb

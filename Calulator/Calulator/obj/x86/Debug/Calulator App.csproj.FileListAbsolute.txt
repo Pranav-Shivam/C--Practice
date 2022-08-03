@@ -1,0 +1,19 @@
+E:\Gopesh\Calulator\Calulator\bin\Debug\Calulator.exe
+E:\Gopesh\Calulator\Calulator\bin\Debug\Calulator.pdb
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.Calculator.resources
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.Properties.Resources.resources
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator App.csproj.GenerateResource.Cache
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.exe
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator.pdb
+E:\Gopesh\Calulator\Calulator\obj\x86\Debug\Calulator App.csprojResolveAssemblyReference.cache
+E:\CSharp\Calulator\Calulator\obj\x86\Debug\Calulator.exe
+E:\CSharp\Calulator\Calulator\obj\x86\Debug\Calulator.pdb
+E:\CSharp\Calulator\Calulator\obj\x86\Debug\Calulator.Calculator.resources
+E:\CSharp\Calulator\Calulator\obj\x86\Debug\Calulator.Properties.Resources.resources
+E:\CSharp\Calulator\Calulator\obj\x86\Debug\Calulator App.csproj.GenerateResource.Cache
+E:\CSharp\Calulator\Calulator\bin\Debug\Calulator.exe
+E:\CSharp\Calulator\Calulator\bin\Debug\Calulator.pdb
+E:\CSharp\Calulator\Calulator\bin\Debug\Calulator.exe.config
+E:\CSharp\Calulator\Calulator\obj\x86\Debug\Calulator App.csproj.AssemblyReference.cache
+E:\CSharp\Calulator\Calulator\obj\x86\Debug\Calulator App.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\Calulator\Calulator\obj\x86\Debug\Calulator App.csproj.CoreCompileInputs.cache
